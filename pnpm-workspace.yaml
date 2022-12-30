@@ -1,0 +1,5 @@
+packages:
+  - "packages/*"
+  - "types/*"
+  - "UI/*"
+  - "!**/(__)?test(s)?(__)?/**"
